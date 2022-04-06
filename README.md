@@ -20,6 +20,16 @@
 
 ### Object Detection
 
+- Faster R-CNN <br>
+[https://arxiv.org/abs/1506.01497](https://arxiv.org/abs/1506.01497)
+
+- SSD <br>
+[https://arxiv.org/abs/1512.02325](https://arxiv.org/abs/1512.02325)
+
+- YOLO <br>
+[https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+
+
 ### Domain Adaptation
 
 ### Self-supervised Learning
