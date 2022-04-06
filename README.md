@@ -101,6 +101,9 @@
 - Soheil Feizi (University of Maryland, College Park) <br>
 [Course Link](https://www.cs.umd.edu/class/fall2020/cmsc828W/)
 
+- Alexander Amini (MIT) <br>
+[Course Link](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
 ### Computer Vision
 
 - CS231n (Stanford) <br>
