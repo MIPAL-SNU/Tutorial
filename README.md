@@ -77,7 +77,7 @@
 
 ## Computer Vision
 
-- CS231N (Stanford) <br>
+- CS231n (Stanford) <br>
 [Course Link](http://cs231n.stanford.edu)
 
 # Textbooks
