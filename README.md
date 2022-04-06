@@ -17,6 +17,7 @@
 [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
 
 - Vision Transformer
+[https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
 
 ### Object Detection
 
@@ -35,38 +36,50 @@
 ### Self-supervised Learning
 
 - MoCo
+[https://arxiv.org/abs/1911.05722](https://arxiv.org/abs/1911.05722)
 
 - SimCLR
+[https://arxiv.org/abs/2002.05709](https://arxiv.org/abs/2002.05709)
 
 - BYOL
+[https://arxiv.org/abs/2006.07733](https://arxiv.org/abs/2006.07733)
 
 ### Implicit Neural Representations
 
 - NeRF
+[https://arxiv.org/abs/2003.08934](https://arxiv.org/abs/2003.08934)
 
 ### Generative Models
 
 - VAE
+[https://arxiv.org/abs/1312.6114](https://arxiv.org/abs/1312.6114)
 
 - DCGAN
+[https://arxiv.org/abs/1511.06434](https://arxiv.org/abs/1511.06434)
 
 - Denoising Diffusion Probabilistic Models
+[https://arxiv.org/abs/2006.11239](https://arxiv.org/abs/2006.11239)
 
 ### Adversarial Attack/Defense
 
 ### Multimodality
 
 - CLIP
+[https://arxiv.org/abs/2103.00020](https://arxiv.org/abs/2103.00020)
 
 - Dall-E
+[https://arxiv.org/abs/2102.12092](https://arxiv.org/abs/2102.12092)
 
 ### Natural Language
 
 - BERT
+[https://arxiv.org/abs/1810.04805](https://arxiv.org/abs/1810.04805)
 
 - BART
+[https://arxiv.org/abs/1910.13461](https://arxiv.org/abs/1910.13461)
 
 - GPT
+[https://arxiv.org/abs/2005.14165](https://arxiv.org/abs/2005.14165)
 
 # Courses & Lectures
 
