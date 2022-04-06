@@ -62,32 +62,32 @@
 
 ## Linear Algebra
 
-- Gilbert Strang (MIT)
+- Gilbert Strang (MIT) <br>
 [Course Link](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
 ## Optimization
 
-- Stephen Boyd (Stanford)
+- Stephen Boyd (Stanford) <br>
 [Course Link](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)
 
 ## Deep Learning
 
-- Soheil Feizi (University of Maryland, College Park)
+- Soheil Feizi (University of Maryland, College Park) <br>
 [Course Link](https://www.cs.umd.edu/class/fall2020/cmsc828W/)
 
 ## Computer Vision
 
-- CS231N (Stanford)
+- CS231N (Stanford) <br>
 [Course Link](http://cs231n.stanford.edu)
 
 # Textbooks
 
 ## Deep Learning
 
-- Ian Goodfellow, Yoshua Bengio, Aaron Courville
+- Ian Goodfellow, Yoshua Bengio, Aaron Courville <br>
 [Textbook Link](https://www.deeplearningbook.org)
 
 ## Pattern Recognition and Machine Learning
 
-- Christopher Bishop
+- Christopher Bishop <br>
 [Textbook Link](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
