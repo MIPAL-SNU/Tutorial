@@ -46,6 +46,9 @@
 
 ### Implicit Neural Representations
 
+- SDF <br>
+[https://arxiv.org/abs/1901.05103](https://arxiv.org/abs/1901.05103)
+
 - NeRF <br>
 [https://arxiv.org/abs/2003.08934](https://arxiv.org/abs/2003.08934)
 
