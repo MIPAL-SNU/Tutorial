@@ -65,6 +65,15 @@
 
 ### Adversarial Attack/Defense
 
+-FGSM<br>
+[https://arxiv.org/abs/1412.6572](https://arxiv.org/abs/1412.6572)
+
+-PGD<br>
+[https://arxiv.org/pdf/1706.06083.pdf](https://arxiv.org/pdf/1706.06083.pdf)
+
+-Adversarial Examples Are Not Bugs, They Are Features <br>
+[https://arxiv.org/abs/1905.02175](https://arxiv.org/abs/1905.02175)
+
 ### Multimodality
 
 - CLIP <br>
