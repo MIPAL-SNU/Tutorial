@@ -19,7 +19,7 @@
 - Vision Transformer <br>
 [https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
 
-### Object Detection
+### (2D) Object Detection
 
 - Faster R-CNN <br>
 [https://arxiv.org/abs/1506.01497](https://arxiv.org/abs/1506.01497)
@@ -30,6 +30,7 @@
 - YOLO <br>
 [https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 
+### (3D) Object Detection
 
 ### Domain Adaptation
 
