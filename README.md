@@ -32,6 +32,21 @@
 
 ### (3D) Object Detection
 
+- PointNet <br>
+[https://arxiv.org/abs/1612.00593](https://arxiv.org/abs/1612.00593)
+
+- PointNet++ <br>
+[https://arxiv.org/abs/1706.02413](https://arxiv.org/abs/1706.02413)
+
+- VoxelNet <br>
+[https://arxiv.org/abs/1711.06396](https://arxiv.org/abs/1711.06396)
+
+- PointRCNN <br>
+[https://arxiv.org/abs/1812.04244](https://arxiv.org/abs/1812.04244)
+
+- PV-RCNN <br>
+[https://arxiv.org/abs/1912.13192](https://arxiv.org/abs/1912.13192)
+
 ### Domain Adaptation
 
 ### Self-supervised Learning
