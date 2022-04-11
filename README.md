@@ -134,6 +134,11 @@
 - CS231n (Stanford) <br>
 [Course Link](http://cs231n.stanford.edu)
 
+### Computer Graphics
+
+- Keenan Crane (CMU) <br>
+[Course Link](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
+
 # Textbooks
 
 ### Deep Learning
