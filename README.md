@@ -47,7 +47,19 @@
 - PV-RCNN <br>
 [https://arxiv.org/abs/1912.13192](https://arxiv.org/abs/1912.13192)
 
-### Domain Adaptation
+### Unsupervised Domain Adaptation
+
+- Domain-Adversarial Training of Neural Networks <br>
+[https://arxiv.org/pdf/1505.07818](https://arxiv.org/pdf/1505.07818)
+
+- Domain-Specific Batch Normalization for Unsupervised Domain Adaptation <br>
+[https://arxiv.org/abs/1906.03950](https://arxiv.org/abs/1906.03950)
+
+- Maximum Classifier Discrepancy for Unsupervised Domain Adaptation <br>
+[https://arxiv.org/abs/1712.02560](https://arxiv.org/abs/1712.02560)
+
+- Domain Adaptive Faster R-CNN for Object Detection in the Wild <br>
+[https://arxiv.org/abs/1803.03243](https://arxiv.org/abs/1803.03243)
 
 ### Self-supervised Learning
 
