@@ -111,7 +111,7 @@
 - Adversarial Examples Are Not Bugs, They Are Features <br>
 [https://arxiv.org/abs/1905.02175](https://arxiv.org/abs/1905.02175)
 
-### Multimodality
+### Vision-Language
 
 - CLIP <br>
 [https://arxiv.org/abs/2103.00020](https://arxiv.org/abs/2103.00020)
