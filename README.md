@@ -85,11 +85,20 @@
 - VAE <br>
 [https://arxiv.org/abs/1312.6114](https://arxiv.org/abs/1312.6114)
 
+- VQ-VAE <br>
+[https://arxiv.org/abs/1711.00937](https://arxiv.org/abs/1711.00937)
+
 - DCGAN <br>
 [https://arxiv.org/abs/1511.06434](https://arxiv.org/abs/1511.06434)
 
+- StyleGAN <br>
+[https://arxiv.org/abs/1812.04948](https://arxiv.org/abs/1812.04948)
+
 - Denoising Diffusion Probabilistic Models <br>
 [https://arxiv.org/abs/2006.11239](https://arxiv.org/abs/2006.11239)
+
+- GLIDE <br>
+[https://arxiv.org/abs/2112.10741](https://arxiv.org/abs/2112.10741)
 
 ### Adversarial Attack/Defense
 
@@ -107,8 +116,20 @@
 - CLIP <br>
 [https://arxiv.org/abs/2103.00020](https://arxiv.org/abs/2103.00020)
 
+- BLIP <br>
+[https://arxiv.org/abs/2201.12086](https://arxiv.org/abs/2201.12086)
+
+- SimVLM <br>
+[https://openreview.net/forum?id=GUrhfTuf_3](https://openreview.net/forum?id=GUrhfTuf_3)
+
+- CoCa <br>
+[https://arxiv.org/abs/2205.01917](https://arxiv.org/abs/2205.01917)
+
 - Dall-E <br>
 [https://arxiv.org/abs/2102.12092](https://arxiv.org/abs/2102.12092)
+
+- Dall-E-2 <br>
+[https://arxiv.org/abs/2204.06125](https://arxiv.org/abs/2204.06125)
 
 ### Natural Language
 
