@@ -1,3 +1,28 @@
+# Preliminaries
+
+## Git tutorial
+
+[git 게임](https://learngitbranching.js.org/?locale=ko)
+[git tutorial for dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
+
+## Docker tutorial
+
+[docker for machine learning](https://www.youtube.com/watch?v=kuBQ8ylVXBU)
+
+## ssh tutorial
+
+[ssh for dummies](https://www.youtube.com/watch?v=qWKK_PNHnnA)
+
+## python tutorial
+
+[virtual environment](https://www.youtube.com/watch?v=IAvAlS0CuxI)
+[conda environment](https://www.youtube.com/watch?v=sDCtY9Z1bqE)
+
+## cuda tutorial
+
+[yt](https://www.youtube.com/watch?v=nATRPPZ5dGE)
+
+
 # Recommended Papers
 
 ### Core Machine Learning
